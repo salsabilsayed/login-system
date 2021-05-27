@@ -1,0 +1,10 @@
+body{
+    background-color: #24353f;
+}
+header{
+    box-shadow: 0 0 40px -10px #000;
+}
+h1{
+    color: #17a2b8;
+    box-shadow: 0 0 40px -10px #000;
+}
